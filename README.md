@@ -2,4 +2,4 @@
 EFI folder for my Hackintosh Setup
 
 ## screenshot
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
